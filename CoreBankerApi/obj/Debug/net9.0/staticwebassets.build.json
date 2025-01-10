@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vmOvS13hwoSuNzb90GonUPmU03yMnrBzb25iK4RRIvo=",
+  "Source": "CoreBankerApi",
+  "BasePath": "_content/CoreBankerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

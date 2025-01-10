@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CoreBankerApi.API.Controllers.CustomerController",
+    "Method": "GetCustomerByAccountNumber",
+    "RelativePath": "api/customers/{accountNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

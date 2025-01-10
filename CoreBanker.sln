@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBankerApi", "CoreBankerApi\CoreBankerApi.csproj", "{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBankerApp", "CoreBankerApp\CoreBankerApp.csproj", "{22932FE7-7D5B-4390-87A4-4E76A67364BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreBankerWeb", "CoreBankerWeb\CoreBankerWeb.csproj", "{463C46EF-52EB-4958-A8D0-1814D5A6512B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22932FE7-7D5B-4390-87A4-4E76A67364BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22932FE7-7D5B-4390-87A4-4E76A67364BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22932FE7-7D5B-4390-87A4-4E76A67364BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22932FE7-7D5B-4390-87A4-4E76A67364BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463C46EF-52EB-4958-A8D0-1814D5A6512B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463C46EF-52EB-4958-A8D0-1814D5A6512B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463C46EF-52EB-4958-A8D0-1814D5A6512B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463C46EF-52EB-4958-A8D0-1814D5A6512B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

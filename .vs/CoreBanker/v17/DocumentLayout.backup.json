@@ -1,0 +1,622 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CoreBanker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\corebankerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\corebankerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\infrastructure\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\infrastructure\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\pages\\customer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\pages\\customer.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|c:\\projects\\corebanker\\corebankerweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|solutionrelative:corebankerweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|c:\\projects\\corebanker\\corebankerweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|solutionrelative:corebankerweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|c:\\projects\\corebanker\\corebankerweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|solutionrelative:corebankerweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|c:\\projects\\corebanker\\corebankerweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|solutionrelative:corebankerweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|c:\\projects\\corebanker\\corebankerweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{463C46EF-52EB-4958-A8D0-1814D5A6512B}|CoreBankerWeb\\CoreBankerWeb.csproj|solutionrelative:corebankerweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\pages\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\pages\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|c:\\projects\\corebanker\\corebankerapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{22932FE7-7D5B-4390-87A4-4E76A67364BD}|CoreBankerApp\\CoreBankerApp.csproj|solutionrelative:corebankerapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\infrastructure\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\infrastructure\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\domain\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\domain\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\domain\\models\\industrytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\domain\\models\\industrytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\application\\services\\impl\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\application\\services\\impl\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\migrations\\20250110093112_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\migrations\\20250110093112_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\api\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\api\\responses\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EKENE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\application\\handlers\\getcustomershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\application\\handlers\\getcustomershandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\application\\queries\\customer\\getcustomerbyaccountnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\application\\queries\\customer\\getcustomerbyaccountnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\domain\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\domain\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|c:\\projects\\corebanker\\corebankerapi\\application\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DE1AE2E-B02A-4814-A6B2-89C0CC76F183}|CoreBankerApi\\CoreBankerApi.csproj|solutionrelative:corebankerapi\\application\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Customer.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Pages\\Customer.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Customer.cshtml",
+              "RelativeToolTip": "CoreBankerApp\\Pages\\Customer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T10:58:01.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Infrastructure\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "CoreBankerApi\\Infrastructure\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAtwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:58:04.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Dockerfile",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Dockerfile",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Dockerfile",
+              "RelativeToolTip": "CoreBankerApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-09T21:32:23.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Program.cs",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Program.cs",
+              "RelativeToolTip": "CoreBankerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:46:32.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreBankerApi\\appsettings.json",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\appsettings.json",
+              "RelativeToolTip": "CoreBankerApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T21:37:20.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "CoreBankerApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T10:49:42.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "CoreBankerApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:54:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoreBankerApi.csproj",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\CoreBankerApi.csproj",
+              "RelativeDocumentMoniker": "CoreBankerApi\\CoreBankerApi.csproj",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\CoreBankerApi.csproj",
+              "RelativeToolTip": "CoreBankerApi\\CoreBankerApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T21:32:56.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Customer.cshtml.cs",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Pages\\Customer.cshtml.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Customer.cshtml.cs",
+              "RelativeToolTip": "CoreBankerApp\\Pages\\Customer.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:58:05.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreBankerWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreBankerWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:15:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoreBankerWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T11:15:51.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerWeb\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CoreBankerWeb\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T11:15:55.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Program.cs",
+              "RelativeDocumentMoniker": "CoreBankerWeb\\Program.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Program.cs",
+              "RelativeToolTip": "CoreBankerWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:16:08.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoreBankerWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T11:16:26.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CoreBankerApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T10:55:16.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoreBankerApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T10:54:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CoreBankerApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T10:54:32.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "CoreBankerApp\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T10:54:27.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoreBankerApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoreBankerApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T10:50:01.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoreBankerApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T10:50:13.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Program.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Program.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Program.cs",
+              "RelativeToolTip": "CoreBankerApi\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:46:59.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IndustryType.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Models\\IndustryType.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Domain\\Models\\IndustryType.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Models\\IndustryType.cs",
+              "RelativeToolTip": "CoreBankerApi\\Domain\\Models\\IndustryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:37:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Models\\Industry.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Domain\\Models\\Industry.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Models\\Industry.cs",
+              "RelativeToolTip": "CoreBankerApi\\Domain\\Models\\Industry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:26:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Domain\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Models\\BaseModel.cs",
+              "RelativeToolTip": "CoreBankerApi\\Domain\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:44:42.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Domain\\Models\\Customer.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "CoreBankerApi\\Domain\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:39:17.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Infrastructure\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Infrastructure\\Database\\DatabaseContext.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Infrastructure\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "CoreBankerApi\\Infrastructure\\Database\\DatabaseContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAD4vz4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:54:55.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Application\\Services\\Impl\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Application\\Services\\Impl\\CustomerService.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Application\\Services\\Impl\\CustomerService.cs",
+              "RelativeToolTip": "CoreBankerApi\\Application\\Services\\Impl\\CustomerService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:35:59.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250110093112_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Migrations\\20250110093112_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Migrations\\20250110093112_InitialCreate.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Migrations\\20250110093112_InitialCreate.cs",
+              "RelativeToolTip": "CoreBankerApi\\Migrations\\20250110093112_InitialCreate.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:31:20.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CoreBankerApi\\API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:44:52.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\EKENE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\Users\\EKENE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\EKENE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\Users\\EKENE\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAwwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-09T23:40:11.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\API\\Responses\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\API\\Responses\\BaseResponse.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\API\\Responses\\BaseResponse.cs",
+              "RelativeToolTip": "CoreBankerApi\\API\\Responses\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T00:09:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetCustomersHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Application\\Handlers\\GetCustomersHandler.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Application\\Handlers\\GetCustomersHandler.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Application\\Handlers\\GetCustomersHandler.cs",
+              "RelativeToolTip": "CoreBankerApi\\Application\\Handlers\\GetCustomersHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:58:19.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetCustomerByAccountNumber.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Application\\Queries\\Customer\\GetCustomerByAccountNumber.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Application\\Queries\\Customer\\GetCustomerByAccountNumber.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Application\\Queries\\Customer\\GetCustomerByAccountNumber.cs",
+              "RelativeToolTip": "CoreBankerApi\\Application\\Queries\\Customer\\GetCustomerByAccountNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:52:27.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Application\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Application\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Application\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "CoreBankerApi\\Application\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:31:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CoreBankerApi\\Domain\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Projects\\CoreBanker\\CoreBankerApi\\Domain\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "CoreBankerApi\\Domain\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:48:41.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
