@@ -4,22 +4,47 @@
     ViewData["Title"] = "Home page";
 }
 
-<h1>Create @Model.Data.Count</h1>
+<h1>Customer Query</h1>
 
 <h4>Movie</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-12">
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label class="control-label">Account Number</label>
-                <input class="form-control" />
-                <span class="text-danger"></span>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label class="control-label">Account Number</label>
+                        <input class="form-control" name="AccountNumber" id="AccountNumber" />
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <button type="submit" name="action" value="Search" class="btn btn-primary" asp-page-handler="Search">Search </button>
+                    </div>
+                </div>
+                
             </div>
+
+            @if (Model.Customer != null)
+            {
+                @foreach (var field in Model.Customer.data.industry.industryTypes)
+                {
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label class="control-label">@field.label</label>
+                                <input name="field_@field.industryTypeId" type="text" class="form-control" />
+                            </div>
+                        </div>
+                    </div>
+                    
+                }
+            }
             
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="form-group" style="margin-top: 5px">
+                <button type="submit" name="action" value="Save" class="btn btn-primary" asp-page-handler="Save">Save </button>
             </div>
         </form>
     </div>

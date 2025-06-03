@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BackgroundClient": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

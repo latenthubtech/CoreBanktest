@@ -15,14 +15,14 @@ namespace CoreBankerApi.Infrastructure.Repository
         }
         public async Task Add(Customer customer)
         {
-            _context.Customers.Add(customer);
-            _context.SaveChangesAsync();
+            await _context.Customers.AddAsync(customer);
+            await _context.SaveChangesAsync();
         }
 
         public async Task Delete(Customer customer)
         {
             _context.Customers.Remove(customer);
-            _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<Customer>> GetAll()
@@ -47,7 +47,7 @@ namespace CoreBankerApi.Infrastructure.Repository
         public async Task Update(Customer customer)
         {
             _context.Customers.Update(customer);
-            _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
     }
 }

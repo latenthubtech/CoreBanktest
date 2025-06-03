@@ -14,7 +14,7 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:9.0-nanoserver-1809 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["CoreBankerApp/CoreBankerApp.csproj", "CoreBankerApp/"]
+COPY ["/CoreBankerApp/CoreBankerApp.csproj", "CoreBankerApp/"]
 RUN dotnet restore "./CoreBankerApp/CoreBankerApp.csproj"
 COPY . .
 WORKDIR "/src/CoreBankerApp"

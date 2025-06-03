@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CoreBankerWeb.mqpd9kpwel.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jswXBSlW7V5CYivVfLF1kKvsM5UMxDC1ZfyS9gO0i9M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jswXBSlW7V5CYivVfLF1kKvsM5UMxDC1ZfyS9gO0i9M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 11:50:48 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jswXBSlW7V5CYivVfLF1kKvsM5UMxDC1ZfyS9gO0i9M=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Jun 2025 14:40:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CoreBankerWeb/CoreBankerWeb.mqpd9kpwel.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CoreBankerWeb.mqpd9kpwel.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mqpd9kpwel"},{"Name":"integrity","Value":"sha256-jswXBSlW7V5CYivVfLF1kKvsM5UMxDC1ZfyS9gO0i9M="},{"Name":"label","Value":"_content/CoreBankerWeb/CoreBankerWeb.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jswXBSlW7V5CYivVfLF1kKvsM5UMxDC1ZfyS9gO0i9M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 11:50:48 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jswXBSlW7V5CYivVfLF1kKvsM5UMxDC1ZfyS9gO0i9M=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Jun 2025 14:40:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CoreBankerWeb/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>

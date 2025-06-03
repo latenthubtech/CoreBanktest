@@ -1,0 +1,45 @@
+# services:
+#   core-banker-api:
+#     build: . # build the Docker image 
+#     container_name: core-banker-api
+#     ports:
+#       - "5000:80"
+
+#   # core-banker-app:
+#   #   build:
+#   #     context: .
+#   #     dockerfile: CoreBankerApp/Dockerfile
+#   #   ports:
+#   #     - "5002:80"
+#   #   environment:
+#   #     - ASPNETCORE_ENVIRONMENT=Development
+#   sql:
+#     image: "mcr.microsoft.com/mssql/server:2022-latest"
+#     container_name: sql_server2022
+#     ports: # not actually needed, because the two services are on the same network
+#       - "1433:1433" 
+#     environment:
+#       - ACCEPT_EULA=y
+#       - SA_PASSWORD=A&VeryComplex123Password
+services:
+  core-banker-api:
+    image: core-banker-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:8081"
+    depends_on:
+      - db
+    environment:
+      - ASPNETCORE_URLS=http://+:8081
+      - ASPNETCORE_ENVIRONMENT=Development
+      # - ConnectionStrings__CoreBankerApiConnection=Server=db;Database=CoreBanker;User=sa;Password=A&VeryComplex123Password;TrustServerCertificate=True;
+  
+  db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      SA_PASSWORD: "A&VeryComplex123Password"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"

@@ -1,18 +1,12 @@
 [
   {
     "ContainingType": "CoreBankerApi.API.Controllers.CustomerController",
-    "Method": "GetCustomerByAccountNumber",
-    "RelativePath": "api/customers/{accountNumber}",
+    "Method": "GetCustomerByAccountNumberV2",
+    "RelativePath": "api/customers/enqueue-task",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "accountNumber",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]
